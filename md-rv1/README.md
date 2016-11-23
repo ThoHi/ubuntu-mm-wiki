@@ -11,7 +11,7 @@ Ubuntu သည္ သံုးစြဲသူမ်ားကို Menu ရုပ
 
 	gksudo gedit /etc/apt/sources.list
 
-ဖိုင္အမ်ားစုရဲ႕ ခန္႕ခြဲမႈေတြကို ရင္းျမစ္ျပင္ဆင္ခြင့္ရွိတဲ့ Admin  အခြင့္ (root Administrative privileges)ႏွင့္ Nautilus file မန္ေနဂ်ာကဲ့သို႕ အသံုးျပဳကာနဲ႕ ေဆာင္ရြက္ႏိုင္ပါသည္။ Munu မွတဆင့္ အသံုးျပဳမယ္ဆိုရင္ `gksudo` ကိုအသံုးျပဳပါ။
+ဖိုင္အမ်ားစုရဲ႕ ခန္႕ခြဲမႈေတြကို ရင္းျမစ္ျပင္ဆင္ခြင့္ရွိတဲ့ Admin  အခြင့္ (root Administrative privileges)ႏွင့္ Nautilus file မန္ေနဂ်ာကဲ့သို႕ အသံုးျပဳကာနဲ႕ ေဆာင္ရြက္ႏိုင္ပါသည္။ Menu မွတဆင့္ အသံုးျပဳမယ္ဆိုရင္ `gksudo` ကိုအသံုးျပဳပါ။
 
 	gksudo nautilus (သို႕မဟုတ္) sudo nautilus
 
@@ -27,7 +27,7 @@ Ubuntu သည္ သံုးစြဲသူမ်ားကို Menu ရုပ
 Synaptic မွာပက္ေက့ေတြ (package) ကိုရွာေဖြပံုနဲ႕ ထည့္သြင္းပံုက ဤသို႕ျဖစ္ပါသည္။ အမိန္႕ေပးမႈအမ်ားအျပားကို nano စာသား အယ္ဒီတာ အသံုးျပဳခိုင္းေစပါတယ္။ နာႏိုက
 Linux တိုင္းမွာ ရရွိတဲ့ အယ္ဒီတာျဖစ္ပါသည္။ တစ္ခါတရံမွာ Ubuntu မွာပါတဲ့ gedit ထက္အသံုးျပဳရတာပိုလြယ္ပါတယ္။
 
-Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွိ မီႏူးဘားကို ရည္ညႊန္းပါတယ္။ မိုက္ခရိုေဆာ့ဖ္၀င္းဒိုးမွာရွိတဲ့ Start menu၊ Apple Macintosh မွာရွိတဲ့ Menu bar ေတြနဲ႕တူတူပါပဲ။
+Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွိ မီႏူးဘားကို ရည္ညႊန္းပါတယ္။ မိုက္ခရိုေဆာ့ဖ္ဝင္းဒိုးမွာရွိတဲ့ Start menu၊ Apple Macintosh မွာရွိတဲ့ Menu bar ေတြနဲ႕တူတူပါပဲ။
 
 တကယ္လို႕ ၆၄ ဘစ္ ဗားရွင္းစနစ္ကို အသံုးျပဳမယ္ဆိုရင္ i386 ကို amd64 နဲ႕ အစားထိုးရမွာ ျဖစ္ပါသည္။
 
@@ -43,9 +43,11 @@ Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွ
 
 ###Newer Versions  of Ubuntu 
 
-Ubuntu ကို ၆လလွ်င္တစ္ႀကိမ္ထုတ္ေ၀ၿပီး ႏွစ္စဥ္ ဧၿပီလႏွင့္ေအာက္တိုဘာလတို႕တြင္ ထုတ္ေ၀ပါသည္။ Oneiric Ocelot (11.10) (http://ubuntuguide.org/wiki/Ubuntu:Oneiric), မ်ားမႀကာမီ ေနာက္ဆံုးထြက္ေပၚမည့္ Oneiric ကို ၂၀၁၁ခုႏွစ္ ေအာက္တိုဘာလတြင္ အခမဲ့ ရယူႏိုင္မည္ျဖစ္ပါသည္။သို႕ရာတြင္ ၄င္းသည္ ကာလရွည္ႀကာ ေထာက္ပံ့မႈေပးသည့္ LTS Version မဟုတ္ပါ။
+Ubuntu ကို ၆လလွ်င္တစ္ႀကိမ္ထုတ္ေဝၿပီး ႏွစ္စဥ္ ဧၿပီလႏွင့္ေအာက္တိုဘာလတို႕တြင္ ထုတ္ေဝပါသည္။ Trusty Tahr (14.04) (http://ubuntuguide.org/wiki/Ubuntu_Trusty), မ်ားမႀကာမီ ေနာက္ဆံုးထြက္ Yakkety Yak ကို ၂၀၁၆ခုႏွစ္ ေအာက္တိုဘာလတြင္ အခမဲ့ ရယူႏိုင္မည္ျဖစ္ပါသည္။သို႕ရာတြင္ ၄င္းသည္ ကာလရွည္ႀကာ ေထာက္ပံ့မႈေပးသည့္ LTS Version မဟုတ္ပါ။
 
 ###Older Versions of Ubuntu
+
+https://wiki.ubuntu.com/Releases
 
 ###Other Resources 
 
@@ -95,7 +97,7 @@ Ubuntu Forums (http://ubuntuforums.org/) တြင္ အြန္လိုင�
 
 ###News Application Resources 
 
-[GetDeb](http://www.getdeb.net) ေနာက္ဆံုးထြက္ရွိေသာ software မ်ားကိုတရား၀င္ ထိန္းသိမ္းထားရာ ေနရာမ်ားကဲ့သို႕ ရရွိႏိုင္ျခင္း (သို႕) မရရွိႏိုင္ျခင္း အတူတူျဖစ္သည္။ `.deb` ဖိုင္ပံုစံျဖင့္ထည့္သြင္းရန္ လြယ္ကူပါသည္။ (ဤေနရာတြင္ ဆက္လက္ေလ့လာပါ။ Apt and Package Basics).
+[GetDeb](http://www.getdeb.net) ေနာက္ဆံုးထြက္ရွိေသာ software မ်ားကိုတရားဝင္ ထိန္းသိမ္းထားရာ ေနရာမ်ားကဲ့သို႕ ရရွိႏိုင္ျခင္း (သို႕) မရရွိႏိုင္ျခင္း အတူတူျဖစ္သည္။ `.deb` ဖိုင္ပံုစံျဖင့္ထည့္သြင္းရန္ လြယ္ကူပါသည္။ (ဤေနရာတြင္ ဆက္လက္ေလ့လာပါ။ Apt and Package Basics).
    
 - [Top 100 Open source Applications](http://ubuntulinuxhelp.com/top-100-of-the-best-useful-opensource-applications/)
 - [Linux Alternatives](http://www.linuxalt.com/)   
@@ -119,7 +121,7 @@ See our full list of add-on applications.
 
 Ubuntu Natty Narwhal သည္ 384 Mb ပမာဏသည္ RAM ရွိရံဳမွ်ျဖင့္ ေကာင္းစြာလည္ပတ္ႏိုင္သည္။ (GUI installer ျဖင့္ထည့္သြင္းလွ်င္ အနည္းဆံုး 256 Mb ပမာဏလိုအပ္ၿပီး၊စာသားျဖင့္သာေဖာ္ၿပေသာ installer ကို သံုးလွ်င္ 192 Mb ပမာဏသာလိုအပ္သည္)။ Notebooks မ်ားတြင္ Ubuntu Natty Narwhal ကိုေကာင္းစြာ အသံုးျပဳႏိုင္သည္။
 
-Ubuntu ထည့္သြင္းျခင္းသည္ Harddisk ေနရာလြတ္ 3-4 Gb မွ်သာ အသံုးျပဳၿပီး အဆင္ေျပစြာ အသံုးျပဳႏိုင္ရန္ 8-10Gb သာ လိုအပ္သည္။ အကယ္၍ သင့္ကြန္ပ်ဴတာ၏ memory ပမာဏသည္ ယခုေဖာ္ၿပခဲ့သည္ထက္ နည္းပါးေနပါက အျခားေသာ
+Ubuntu ထည့္သြင္းျခင္းသည္ Harddisk ေနရာလြတ္ 3->4 Gb မွ်သာ အသံုးျပဳၿပီး အဆင္ေျပစြာ အသံုးျပဳႏိုင္ရန္ 8->10Gb သာ လိုအပ္သည္။ အကယ္၍ သင့္ကြန္ပ်ဴတာ၏ memory ပမာဏသည္ ယခုေဖာ္ၿပခဲ့သည္ထက္ နည္းပါးေနပါက အျခားေသာ
 ဆင္တူ OS မ်ားျဖစ္ေသာ ေအာက္ပါ OS မ်ားကို အသံုးျပဳႏိုင္သည္။    
 
 - [Lubuntu](https://wiki.ubuntu.com/Lubuntu) (၁၆၀ Mb RAM ပမာဏရွိရံုျဖင့္ အသံုးျပဳႏိုင္သည္။)   
@@ -140,7 +142,7 @@ Ubuntu ထည့္သြင္းျခင္းသည္ Harddisk ေနရာ
 
 Server version ကဲ့သို႕ ပိုမိုျမန္ဆန္သည့္ စာသားျဖင့္သာေဖာ္ၿပေသာ installer ကို အသံုးျပဳထားသည့္ ISO file ကို [Alternative Download](http://www.ubuntu.com/download/ubuntu/alternative-download) တြင္ ရယူႏိုင္သည္။ ထို ISO တြင္Desktop CD(Regular Download) ထက္ေရြးခ်ယ္ႏိုင္ေသာ installation လုပ္ငန္းစဥ္မ်ား ပိုမိုပါ၀င္သည္။
 
-LiveCD ကို USB flashdrive ေပၚသို႕ (usb-creater-gtk) အသံုးျပဳ၍ ထည့္သြင္းၿပီး ထို flashdrive ကို CD drive မပါ၀င္သည့္ ကြန္ပ်ဴတာမ်ားေပၚတြင္ Ubuntu ထည့္သြင္းရန္ အသံုးျပဳႏိုင္သည္။ [ဒီေနရာတြင္ၾကည့္ပါ။](https://help.ubuntu.com/community/Installation/FromUSBStick)
+LiveCD ကို USB flashdrive ေပၚသို႕ (usb-creater-gtk) အသံုးျပဳ၍ ထည့္သြင္းၿပီး ထို flashdrive ကို CD drive မပါဝင္သည့္ ကြန္ပ်ဴတာမ်ားေပၚတြင္ Ubuntu ထည့္သြင္းရန္ အသံုးျပဳႏိုင္သည္။ [ဒီေနရာတြင္ၾကည့္ပါ။](https://help.ubuntu.com/community/Installation/FromUSBStick)
 
 ####Windows ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
 
@@ -417,7 +419,7 @@ Bootup မွာျမင္ရတဲ့ဟာက ကနဦး Splash Screen 
 	sudo update-alternatives --config default.plymouth
 	sudo update-initramfs -u
 
-မိမိႀကိဳက္ႏွစ္သက္ရာ Theme ကို ေရြးခ်ယ္၍ တင္ႏိုင္ပါသည္။ Plymouth ကေတာ့ Bootup ျပဳလုပ္ေနတဲ့အခ်ိန္မွာ မႀကာခဏ Blacnk Screen မ်ားေပၚေပါက္ျခင္းနဲ႕ nVidia Drivers ေတြ ခ်က္ျခင္း အလုပ္မလုပ္ေဆာင္ႏိုင္ေသးပါဘူး။
+မိမိႀကိဳက္ႏွစ္သက္ရာ Theme ကို ေရြးခ်ယ္၍ တင္ႏိုင္ပါသည္။ Plymouth ကေတာ့ Bootup ျပဳလုပ္ေနတဲ့အခ်ိန္မွာ မႀကာခဏ Blank Screen မ်ားေပၚေပါက္ျခင္းနဲ႕ nVidia Drivers ေတြ ခ်က္ျခင္း အလုပ္မလုပ္ေဆာင္ႏိုင္ေသးပါဘူး။
 
 ###Change USplash Boot Screen
 
@@ -432,7 +434,7 @@ Metacity ဆိုတာက Gnome မွာပါတဲ့ မူလ Desktop Com
 
 Compiz Fusion က window manager နဲ႕ သီးျခားကြဲျပားပါတယ္။ သူက Desktop effects ေတြကို 
 အဆင့္ျမင့္ ေျပာင္းလြဲႏိုင္တာျဖစ္ၿပီး Cube တံုးသဖြယ္မ်ိဳး Desktop ကို ေျပာင္းလဲဖန္တီးႏိုင္တာေတြလဲ
-ပါ၀င္ပါတယ္။Ubuntu Users ေတာ္ေတာ္မ်ားမ်ားက Compiz ကိုေရြးခ်ယ္ အသံုးျပဳႀကပါတယ္။ဒါကို Ubuntu မွာ အခ်ိန္ခဏေလးနဲ႕ အလြယ္တကူ Install ျပဳခ်င္ရင္ေတာ့
+ပါဝင္ပါတယ္။Ubuntu Users ေတာ္ေတာ္မ်ားမ်ားက Compiz ကိုေရြးခ်ယ္ အသံုးျပဳႀကပါတယ္။ဒါကို Ubuntu မွာ အခ်ိန္ခဏေလးနဲ႕ အလြယ္တကူ Install ျပဳခ်င္ရင္ေတာ့
 
 	sudo apt-get install compiz compizconfig-settings-manager compiz-fusion-plugins-maincompiz-fusion-plugins-extra emerald librsvg2-common
 
